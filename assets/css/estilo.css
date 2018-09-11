@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/* CSS Document */
+body{font-family: 'Roboto', sans-serif;}
+
+h1{
+	  font-size: 1.5em;
+	  color: #000;}
+
+p{
+	  color: #000;}
+
+.titulo, .parrafo{
+	  color: #fff;
+	  padding: 0 300px 0 300px;
+	  text-align: center}
+
+.box_header{  
+      height: 200px; 
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
+      background-color: #ccc;
+      background-image: url("../images/bg2.jpg");}
+
+ .box_1{  margin-top: 50px;}
+
